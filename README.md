@@ -1,4 +1,4 @@
-Sentiment-Driven Product Recommendations for E-Commerce
+**Sentiment-Driven Product Recommendations for E-Commerce**
 ![Sentiment-Driven Product Recommendations for E-Commerce](https://github.com/HritikeSinghRawat/Sentiment-Driven-Product-Recommendations-for-E-Commerce/assets/84779271/5a4ae39d-c78e-468e-9641-c913a824d6c9)
 
 Project Description:
